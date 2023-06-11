@@ -1,5 +1,6 @@
 <!-- Title -->
 <h1 align="center"><b>Newspaper Crawling with Scrapy</b></h1>
+
 ## Set up environment
 
 ```
