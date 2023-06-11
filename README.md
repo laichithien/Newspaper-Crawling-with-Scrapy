@@ -9,7 +9,6 @@ conda activate webcrawling
 ```
 
 ## Crawl
-To crawl data from a newspaper site, you must first cd into that newspaper site folder, then the following command below will help you to do that
 
 To crawl data from a newspaper site, navigate to the subfolder directory that corresponds to the name of the newspaper you want to crawl. Then, run the crawler using following command
 ```
